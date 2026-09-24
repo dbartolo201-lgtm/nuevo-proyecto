@@ -81,3 +81,21 @@ How could your project grow and become something even more? What kind of skills,
 * etc
 
  ![Descripción de la imagen](imágenes.jpg) 
+
+ # nuevo-proyecto
+
+## Resumen
+Mi proyecto trata sobre [escribe aquí de qué trata tu proyecto en 2 o 3 frases]. Busca resolver [menciona el problema principal] mediante el uso de inteligencia artificial.
+
+## Fondo
+El problema que resuelve mi idea es [describe el problema]. Esto se presenta con frecuencia cuando [explica en qué situaciones ocurre]. Mi motivación personal para elegir este tema es [explica por qué te interesa a ti]. Es importante porque [di por qué es relevante para la sociedad o para ti].
+
+Aquí una lista de los problemas que aborda:
+*   Problema 1: [ej. Falta de acceso a información]
+*   Problema 2: [ej. Procesos lentos]
+*   etc.
+
+## ¿Cómo se utiliza?
+El proceso de uso de la solución es el siguiente: [describe brevemente cómo el usuario interactúa con tu IA]. Se requiere en situaciones como [menciona el entorno o momento, ej. al analizar datos médicos]. Los usuarios principales son [ej. estudiantes, médicos, empresas] y sus necesidades son [ej. rapidez, precisión].
+
+![Descripción de la imagen](imágenes.jpg)
