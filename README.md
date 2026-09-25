@@ -85,10 +85,10 @@ How could your project grow and become something even more? What kind of skills,
  # nuevo-proyecto
 
 ## Resumen
-Mi proyecto trata sobre un asistente virtual que ayuda a los estudiantes a organizar sus tareas diarias. Busca resolver la falta de tiempo y la desorganización mediante el uso de inteligencia artificial." .
+Mi proyecto trata sobre un asistente virtual que ayuda a los estudiantes a organizar sus tareas diarias. Busca resolver la falta de tiempo y la desorganización mediante el uso de inteligencia artificial. .
 
 ## Fondo
-El problema que resuelve mi idea es El problema que resuelve mi idea es la dificultad de los estudiantes para priorizar tareas. Esto se presenta con frecuencia cuando hay exámenes o entregas finales. Mi motivación personal para elegir este tema es que yo también sufro de esto. Es importante porque ayuda a mejorar el rendimiento académico."
+ El problema que resuelve mi idea es la dificultad de los estudiantes para priorizar tareas. Esto se presenta con frecuencia cuando hay exámenes o entregas finales. Mi motivación personal para elegir este tema es que yo también sufro de esto. Es importante porque ayuda a mejorar el rendimiento académico.
 
 
 
