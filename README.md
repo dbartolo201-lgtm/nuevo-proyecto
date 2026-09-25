@@ -102,4 +102,4 @@ Exceso de información
 ## ¿Cómo se utiliza?
 "El proceso de uso es el siguiente: el usuario ingresa sus tareas y fechas límite en la aplicación, y la IA le sugiere un horario optimizado. Se requiere en situaciones como la planificación semanal. Los usuarios principales son estudiantes y sus necesidades son rapidez y claridad."
 
-![robot sentado](imagenes.jpg)
+![robot sentado](images.jpg)
