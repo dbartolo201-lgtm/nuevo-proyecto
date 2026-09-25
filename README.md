@@ -85,17 +85,21 @@ How could your project grow and become something even more? What kind of skills,
  # nuevo-proyecto
 
 ## Resumen
-Mi proyecto trata sobre [escribe aquí de qué trata tu proyecto en 2 o 3 frases]. Busca resolver [menciona el problema principal] mediante el uso de inteligencia artificial.
+Mi proyecto trata sobreMi proyecto trata sobre un asistente virtual que ayuda a los estudiantes a organizar sus tareas diarias. Busca resolver la falta de tiempo y la desorganización mediante el uso de inteligencia artificial." .
 
 ## Fondo
-El problema que resuelve mi idea es [describe el problema]. Esto se presenta con frecuencia cuando [explica en qué situaciones ocurre]. Mi motivación personal para elegir este tema es [explica por qué te interesa a ti]. Es importante porque [di por qué es relevante para la sociedad o para ti].
+El problema que resuelve mi idea es El problema que resuelve mi idea es la dificultad de los estudiantes para priorizar tareas. Esto se presenta con frecuencia cuando hay exámenes o entregas finales. Mi motivación personal para elegir este tema es que yo también sufro de esto. Es importante porque ayuda a mejorar el rendimiento académico."
+
+
 
 Aquí una lista de los problemas que aborda:
-*   Problema 1: [ej. Falta de acceso a información]
-*   Problema 2: [ej. Procesos lentos]
-*   etc.
+* Falta de organización
+
+Procrastinación
+
+Exceso de información
 
 ## ¿Cómo se utiliza?
-El proceso de uso de la solución es el siguiente: [describe brevemente cómo el usuario interactúa con tu IA]. Se requiere en situaciones como [menciona el entorno o momento, ej. al analizar datos médicos]. Los usuarios principales son [ej. estudiantes, médicos, empresas] y sus necesidades son [ej. rapidez, precisión].
+"El proceso de uso es el siguiente: el usuario ingresa sus tareas y fechas límite en la aplicación, y la IA le sugiere un horario optimizado. Se requiere en situaciones como la planificación semanal. Los usuarios principales son estudiantes y sus necesidades son rapidez y claridad."
 
-![Descripción de la imagen](imágenes.jpg)
+![robot sentado](imágenes.jpg)
