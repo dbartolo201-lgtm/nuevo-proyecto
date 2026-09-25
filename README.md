@@ -80,7 +80,7 @@ How could your project grow and become something even more? What kind of skills,
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
 
- ![Descripción de la imagen](imagenes.jpg) 
+ 
 
  # nuevo-proyecto
 
@@ -102,4 +102,4 @@ Exceso de información
 ## ¿Cómo se utiliza?
 "El proceso de uso es el siguiente: el usuario ingresa sus tareas y fechas límite en la aplicación, y la IA le sugiere un horario optimizado. Se requiere en situaciones como la planificación semanal. Los usuarios principales son estudiantes y sus necesidades son rapidez y claridad."
 
-![robot sentado](imágenes.jpg)
+![robot sentado](imagenes.jpg)
